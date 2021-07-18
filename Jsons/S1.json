@@ -1,0 +1,84 @@
+{
+    "storeNodes": [
+        {
+            "storeName": "1",
+            "posX": 7,
+            "posY": 4
+        },
+        {
+            "storeName": "2",
+            "posX": 12,
+            "posY": 4
+        },
+        {
+            "storeName": "3",
+            "posX": 17,
+            "posY": 4
+        },
+        {
+            "storeName": "4",
+            "posX": 36,
+            "posY": 9
+        },
+        {
+            "storeName": "5",
+            "posX": 36,
+            "posY": 16
+        },
+        {
+            "storeName": "6",
+            "posX": 33,
+            "posY": 25
+        },
+        {
+            "storeName": "7",
+            "posX": 21,
+            "posY": 25
+        },
+        {
+            "storeName": "8",
+            "posX": 10,
+            "posY": 25
+        },
+        {
+            "storeName": "9",
+            "posX": 3,
+            "posY": 22
+        },
+        {
+            "storeName": "10",
+            "posX": 3,
+            "posY": 15
+        },
+        {
+            "storeName": "11",
+            "posX": 3,
+            "posY": 8
+        },
+        {
+            "storeName": "12",
+            "posX": 12,
+            "posY": 15
+        },
+        {
+            "storeName": "13",
+            "posX": 19,
+            "posY": 13
+        },
+        {
+            "storeName": "14",
+            "posX": 27,
+            "posY": 13
+        },
+        {
+            "storeName": "15",
+            "posX": 27,
+            "posY": 17
+        },
+        {
+            "storeName": "16",
+            "posX": 20,
+            "posY": 17
+        }
+    ]
+}
