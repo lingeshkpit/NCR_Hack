@@ -1,0 +1,24 @@
+{
+    "storeNodes": [
+        {
+            "storeName": "c1",
+            "posX": 5,
+            "posY": 8
+        },
+        {
+            "storeName": "c2",
+            "posX": 10,
+            "posY": 11
+        },
+        {
+            "storeName": "c3",
+            "posX": 14,
+            "posY": 8
+        },
+        {
+            "storeName": "c4",
+            "posX": 10,
+            "posY": 5
+        }
+    ]
+}
