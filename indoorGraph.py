@@ -235,7 +235,3 @@ class indoorGraph:
         allEdges = sEdges.copy()
         allEdges += cEdges
         self.graph = self.createGraph(allNodes, allEdges)
-        # return G
-        # self.showGraph(G)
-        # G = self.createGraph(corridorNodes,cEdges)
-        # self.showGraph(G)
